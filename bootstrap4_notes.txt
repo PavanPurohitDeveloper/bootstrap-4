@@ -10,3 +10,4 @@ xl - extra large screen  -  col-xl-2
 
 -> Maximum of 12 grd spaces in a single row.
 
+offsetting columns - to move the elements/columns to the right.
