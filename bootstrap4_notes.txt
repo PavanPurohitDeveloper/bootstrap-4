@@ -2,3 +2,11 @@ https://getbootstrap.com/docs/4.3/getting-started/introduction/
 
 container - grouping all your websites main content. we can have more than one container but we use one container.
 
+xs - extra small screen  -  col-xs-12 
+sm - small screen        -  col-sm-6 
+md - medium screen       -  col-md-4
+lg - large screen        -  col-lg-3
+xl - extra large screen  -  col-xl-2
+
+-> Maximum of 12 grd spaces in a single row.
+
